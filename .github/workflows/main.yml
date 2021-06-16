@@ -31,7 +31,7 @@ jobs:
         
         -name: Installing Node
         uses: actions/setup-node@v2
-            with:
+        with:    
               node-version: '14'
         # Step to install Surge
         -name: Installing Surge
