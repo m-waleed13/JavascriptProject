@@ -39,4 +39,4 @@ jobs:
         
         #Deploy App to Surge
         -name: Deploying project Surge
-        run: surge ./ walidwalid_project.surge.sh
+        run: surge .sh
